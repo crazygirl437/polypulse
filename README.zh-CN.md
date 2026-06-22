@@ -6,6 +6,8 @@
 
 > 面向 [Polymarket](https://polymarket.com) 加密货币「Up or Down」5 分钟预测市场的 Rust 套利机器人。
 
+![account](image/account.png)
+
 ![运行界面](image/main.png)
 
 ## 基本原理
