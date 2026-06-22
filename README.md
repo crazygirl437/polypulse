@@ -6,6 +6,8 @@
 
 > Rust arbitrage bot for [Polymarket](https://polymarket.com) crypto “Up or Down” 5-minute prediction markets.
 
+![account](image/account.png)
+
 ![Dashboard](image/main.png)
 
 ## How It Works
